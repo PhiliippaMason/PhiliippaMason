@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PhilippaMason
-- 👀 I’m interested in use of ML techniques with Earth Observation (and other) data
-- 🌱 I’m a coding novice but understand the principle
+- 👀 I’m interested in use of ML techniques with Earth Observation (and other) data, and in planetary sciences too 
 - 💞️ I’m looking to collaborate on all kinds of stuff
 - 📫 How to reach me p.j.mason@ic.ac.uk
 
